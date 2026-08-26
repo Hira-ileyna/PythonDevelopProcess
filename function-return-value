@@ -1,0 +1,10 @@
+def addition():
+    return 10+20
+
+result = addition()
+print(result)
+
+def ageCalculate():
+    return 2026-2003
+
+print(ageCalculate)
